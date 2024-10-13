@@ -2,6 +2,10 @@
 
 This Python program prints all prime numbers between two user-defined ranges.
 
+## Project Timeline
+- **Creation Date**: July 23, 2023
+- **Uploaded to GitHub**: 2024
+
 ## Features
 
 - Accepts a range of numbers from the user.
